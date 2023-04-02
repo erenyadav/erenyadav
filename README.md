@@ -1,1 +1,1 @@
-<img src="./BronzeMedicalLamb-mobile.mp4">
+<img src="https://github.com/erenyadav/erenyadav/blob/main/ok.gif">
